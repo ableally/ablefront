@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ablefront/static/css/main.3393e913.chunk.css",
+    "main.js": "/ablefront/static/js/main.0be5b979.chunk.js",
+    "main.js.map": "/ablefront/static/js/main.0be5b979.chunk.js.map",
+    "runtime-main.js": "/ablefront/static/js/runtime-main.5267e0a1.js",
+    "runtime-main.js.map": "/ablefront/static/js/runtime-main.5267e0a1.js.map",
+    "static/js/2.e8b07582.chunk.js": "/ablefront/static/js/2.e8b07582.chunk.js",
+    "static/js/2.e8b07582.chunk.js.map": "/ablefront/static/js/2.e8b07582.chunk.js.map",
+    "static/js/3.2677b69d.chunk.js": "/ablefront/static/js/3.2677b69d.chunk.js",
+    "static/js/3.2677b69d.chunk.js.map": "/ablefront/static/js/3.2677b69d.chunk.js.map",
+    "index.html": "/ablefront/index.html",
+    "static/css/main.3393e913.chunk.css.map": "/ablefront/static/css/main.3393e913.chunk.css.map",
+    "static/js/2.e8b07582.chunk.js.LICENSE.txt": "/ablefront/static/js/2.e8b07582.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5267e0a1.js",
+    "static/js/2.e8b07582.chunk.js",
+    "static/css/main.3393e913.chunk.css",
+    "static/js/main.0be5b979.chunk.js"
+  ]
+}
